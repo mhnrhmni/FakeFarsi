@@ -1,0 +1,18 @@
+[project]
+name = "FakeFarsi_package_mhnrhmni"
+version = "0.0.1"
+authors = [
+  { name="Mahan Rahmani", email="mahanrahmani777@gmail.com" },
+]
+description = "package for generate a iranian person fake information "
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Windows ",
+]
+
+[project.urls]
+Homepage = "https://github.com/mhnrhmni/FakeFarsi"
+Issues = "https://github.com/mhnrhmni/FakeFarsi/issues"
