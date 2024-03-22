@@ -1,16 +1,16 @@
 [project]
-name = "FakeFarsi_package_mhnrhmni"
+name = "fakefarsi"
 version = "0.0.1"
 authors = [
   { name="Mahan Rahmani", email="mahanrahmani777@gmail.com" },
 ]
-description = "package for generate a iranian person fake information "
+description = "A package for generate a fake iranian person information"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
-    "Operating System :: Windows ",
+    "Operating System :: OS Independent ",
 ]
 
 [project.urls]
