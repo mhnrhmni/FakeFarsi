@@ -110,8 +110,8 @@ def fake_email(name, lastname):
 
 
 # Read names from file
-names = read_names('اسامی.txt')
+names = read_names('first_name.txt')
 
 
 # Read last names from file
-last_names = read_last_names('نام خانوادگی.txt')
+last_names = read_last_names('last_name.txt')
