@@ -114,4 +114,3 @@ names = f_name
 
 # Read last names from file
 last_names = l_name
-print(complete())
