@@ -1,5 +1,5 @@
 import random
-
+from Data import f_name , l_name
 
 # Function to read names from a file
 def read_names(file_name):
@@ -110,8 +110,8 @@ def fake_email(name, lastname):
 
 
 # Read names from file
-names = read_names('../Data/first_name.txt')
-
+names = f_name
 
 # Read last names from file
-last_names = read_last_names('../Data/last_name.txt')
+last_names = l_name
+print(complete())
