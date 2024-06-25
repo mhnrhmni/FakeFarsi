@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: fakefarsi
+Version: 0.0.8
+Summary: A package for generate a fake iranian person information
+Home-page: https://github.com/mhnrhmni/FakeFarsi/
+Author: Mahan Rahmani
+Author-email: Mahan Rahmani <mahanrahmani777@gmail.com>
+Project-URL: Homepage, https://github.com/mhnrhmni/FakeFarsi
+Project-URL: Issues, https://github.com/mhnrhmni/FakeFarsi/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent 
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# FakeFarsi
+ 
+This package, developed with Python language, is used to generate fake information including name, surname, age, phone number and email of a fake Iranian person. In Python, there was such a package called Faker, which provided fake information of a foreigner, but now we have fixed this problem for Iranians and we will improve it day by day.
+
+Developer: Mahan Rahmani

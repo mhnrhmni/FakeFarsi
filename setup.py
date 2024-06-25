@@ -5,10 +5,10 @@ with open("README.md", "r") as readme_file:
 
 setup(
     name="fakefarsi",
-    version="0.0.4",
+    version="0.0.8",
     author="Mahan Rahmani",
     author_email="mahanrahmani777@gmail.com",
-    description="A package for generate a fake iranian person information",
+    description="A package for generating fake Iranian personal information",
     long_description=readme,
     url="https://github.com/mhnrhmni/FakeFarsi/",
     packages=find_packages(),
