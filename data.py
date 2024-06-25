@@ -1,4 +1,4 @@
-male_name = [
+male_names = [
     "ماهان",
     "شایان",
     "حسین",
@@ -60,7 +60,7 @@ male_name = [
     "مح"
 ]
 
-female_names = [
+female_names= [
     "صدیقه"
     "زهره"
     "لیلا"
@@ -120,7 +120,7 @@ female_names = [
     "حدیث"
 ]
 
-l_name = [
+l_names = [
     "رحمانی",
     "احمدی",
     "شریف رضوانی",

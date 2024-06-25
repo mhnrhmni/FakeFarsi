@@ -1,19 +1,8 @@
 import random
-from Data import f_name , l_name
-
-# Function to read names from a file
-def read_names(file_name):
-    with open(file_name, 'r', encoding='utf-8') as f:
-        return f.read().splitlines()
-
-
-# Function to read last names from a file
-def read_last_names(file_name):
-    with open(file_name, 'r', encoding='utf-8') as f:
-        return f.read().split("  \n  \n")
-
+from data import *
 
 # Function to generate a complete fake profile
+
 def complete():
     f = fake_name()
     l = fake_last_name()
@@ -110,7 +99,7 @@ def fake_email(name, lastname):
 
 
 # Read names from file
-names = f_name
+names = male_names + female_names
 
 # Read last names from file
-last_names = l_name
+last_names = l_names
