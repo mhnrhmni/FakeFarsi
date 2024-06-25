@@ -1,5 +1,5 @@
 import random
-from data import *
+from fakefarsi.data import *
 
 # Function to generate a complete fake profile
 
