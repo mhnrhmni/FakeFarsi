@@ -1,5 +1,7 @@
 # FakeFarsi
- 
+
+ ![Logo](https://github.com/user-attachments/assets/b62f63ad-44db-4f14-a849-eca6396f1dbd)
+
 This package, developed with Python language, is used to generate fake information including name, surname, age, phone number and email of a fake Iranian person. In Python, there was such a package called Faker, which provided fake information of a foreigner, but now we have fixed this problem for Iranians and we will improve it day by day.
 
 Creating fake profiles can serve various purposes, from testing software applications to conducting research on user behavior. In this project, we explore the generation of fictional profiles using Farsi (Persian) names and other details.We randomly select first names from a list of both male and female Farsi names.Similarly, we choose last names from a predefined list.Combining a randomly selected first name and last name gives us a complete name for the fake profile.We generate a random age between 10 and 99 years for each profile.A fake phone number is created with the format “09XXXXXXXXX,” where X represents digits.The first digit is chosen from a restricted set (1, 3, or 9) to match Iranian mobile phone prefixes.We translate the Farsi first name and last name into English characters.We combine the generated information (name, age, phone number, and email) to create a complete fake profile.Creating fake profiles can be useful for testing, data anonymization, or educational purposes. By following the steps outlined above, we can quickly generate fictional profiles in Farsi.
